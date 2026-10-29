@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/seo-backlinks",
   "title": "Seo Backlinks",
-  "description": "SEO Backlinks MCP — backlink intelligence via DataForSEO Backlinks API",
-  "version": "0.1.2",
+  "description": "SEO Backlinks MCP — backlink intelligence via DataForSEO Backlinks API (dataforseo.com). Completes…",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/seo-backlinks",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-seo-backlinks",
